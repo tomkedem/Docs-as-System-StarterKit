@@ -1,0 +1,38 @@
+{
+  "name": "docs-as-system-starterkit",
+  "version": "0.1.0",
+  "description": "English starter kit for creating new projects using the Docs as System methodology.",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "src/init.cjs",
+  "bin": {
+    "dass": "./bin/dass.cjs"
+  },
+  "files": [
+    "bin",
+    "src",
+    "starter-project",
+    "templates",
+    "README.md"
+  ],
+  "keywords": [
+    "docs-as-system",
+    "starter-kit",
+    "documentation",
+    "ai",
+    "project-templates"
+  ],
+  "author": "Tomer Kedem",
+  "contributors": [
+    {
+      "name": "Yuval Vanunu"
+    },
+    {
+      "name": "Yehonatan Maman"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomkedem/Docs-as-System-StarterKit.git"
+  }
+}
