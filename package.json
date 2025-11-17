@@ -6,7 +6,7 @@
   "type": "commonjs",
   "main": "src/init.cjs",
   "bin": {
-    "dass": "./bin/dass.cjs"
+    "das": "./bin/das.cjs"
   },
   "files": [
     "bin",
