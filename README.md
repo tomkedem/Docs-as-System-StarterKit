@@ -8,16 +8,15 @@ The purpose is to begin every project with a consistent, organized, and fully do
 ## Installation
 
 ### Using npx
-npx docs-as-system-starterkit init my-project
+npx docs-as-system-starterkit
 
 ### Global installation
 npm install -g docs-as-system-starterkit
-dass init my-project
 
 ## Available Commands
 
-Create a new project
-dass init project-name
+### Create a new project
+das init project-name
 
 This command creates a new project that includes:
 
