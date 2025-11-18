@@ -59,9 +59,13 @@ git push origin main
 git push origin tags  
 ```
 ## Step 4: Publish to npm
+
+```bash
+npm login 
+npm link 
+npm publish --access public
 ```
-npm publish --access public  
-```
+
 Check published version:  
 ```
 npm view docs-as-system-starterkit version
